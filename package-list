@@ -9,3 +9,4 @@ javolution.xml
 javolution.xml.sax
 javolution.xml.stream
 javolution.xml.ws
+org.xml.sax
